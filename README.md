@@ -1,7 +1,7 @@
 # Konbucha  
 *A framework for building action-adventure games in Unreal Engine 5*  
 
-![Konbucha Banner](https://www.canva.com/design/DAGdyL-u76c/XyNku5gZu3HP_nJJnttLSQ/view?utm_content=DAGdyL-u76c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf963936ee9)
+![Konbucha Banner](https://iili.io/2ZzxynS.png)
 
 ## 🚀 Overview  
 **Konbucha** is a lightweight, gameplay-focused framework designed to streamline development for **action-adventure games** in **Unreal Engine 5**. It provides a robust foundation for **deep item and character interactions**, leveraging **Unreal Engine’s Gameplay Ability System (GAS)** for efficient and scalable gameplay mechanics.  
